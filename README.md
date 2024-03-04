@@ -80,7 +80,10 @@ Deploy your bot on `heroku`
 - Star the repo, and fork it in desktop mode
 - Go to settings of your forked repo
 - Rename your repo by any other name
-- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- Click on
+- <a href="https://heroku.com/deploy?template=https://github.com/tiger7815/tecttoovvvv">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
  
 » Method - 2:
 - Star the repo, and fork it in desktop mode
