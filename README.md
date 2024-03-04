@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Save restricted Content Bot by <a href="https://t.me/TIGER0715"> devgagan.in </a>
+  <b>Save restricted Content Bot by <a href="https://t.me/TIGER0715"> TIGER.in </a>
 </h1> 
 
 Contact: [Telegram](https://t.me/TIGER0715)
