@@ -1,10 +1,10 @@
 <h1 align="center">
-  <b>Save restricted Content Bot by <a href="https://devgagan.in"> devgagan.in </a>
+  <b>Save restricted Content Bot by <a href="https://t.me/TIGER0715"> devgagan.in </a>
 </h1> 
 
-Contact: [Telegram](https://t.me/dev_gagan)
+Contact: [Telegram](https://t.me/TIGER0715)
 
-## A stable telegram bot to get restricted messages with custom thumbnail support , made by [TEAM SPY](https://t.me/dev_gagan) This bot can run in channels directly (in this case custom thumbnail not supported)
+## A stable telegram bot to get restricted messages with custom thumbnail support , made by  This bot can run in channels directly (in this case custom thumbnail not supported)
 
 - works for both public and private chats
 - Custom thumbnail support for Pvt medias
@@ -31,7 +31,7 @@ API: [Telegram.org](https://my.telegram.org/auth)
 
 PYROGRAM SESSION: Search for it ... Make sure the source be trusted otherwise it will lead to accound delete or ban
 
-#How to get vars - [TEAM SPY](https://t.me/dev_gagan)
+#How to get vars - [TEAM Eagle]()https://t.me/Eagle_Xy0
 
 BOT TOKEN: @Botfather on telegram
 
