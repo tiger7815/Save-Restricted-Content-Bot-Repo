@@ -39,7 +39,7 @@ AUTH: Go to @missrose_bot, start and send /info to get your id
 
 FORCESUB: Before starting building bots create a public channel and get the username withou '@'
 
-# Deploying Guide - [TEAM SPY](https://t.me/dev_gagan)
+# Deploying Guide - [TEAM Eagle](https://t.me/Eagle_Xy0)
 
 Deploy on `VPS`
 
@@ -93,7 +93,7 @@ Deploy your bot on `heroku`
 - connect to github and deploy
 - turn on dynos
 
-# Editing Repo - [TEAM SPY](https://t.me/dev_gagan)
+# Editing Repo - [TEAM Eagle](https://t.me/Eagle_Xy0)
 
 You can freely edit repo the customisation you can do is -
 - Change command pattern like `/batch` to other name (edit this in ```main/plugins/batch.py```) by searching and replacing `/batch` to desired command.
@@ -107,7 +107,7 @@ change accordingly within ```f""```
 - Change Default thumbnail in main directory there is file named ```thumb.jpg``` remove that and upload your custom ```thumb.jpg```
 - Change cancel command (edit this also in ```batch.py```) search for ```/cancel``` and then change the command accordingly
 
-# Commands Available in Bot - [TEAM SPY](https://t.me/dev_gagan)
+# Commands Available in Bot - [TEAM Eagle](https://t.me/Eagle_Xy0)
 
 - ```/start``` - to start the bot
 - ```/batch``` - to download the files in range/bulk by giving one post link and range value
