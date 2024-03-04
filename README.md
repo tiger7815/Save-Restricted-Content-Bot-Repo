@@ -81,7 +81,7 @@ Deploy your bot on `heroku`
 - Go to settings of your forked repo
 - Rename your repo by any other name
 - Click on
-- <a href="https://heroku.com/deploy?template=https://github.com/tiger7815/tecttoovvvv">
+- <a href="https://heroku.com/deploy?template=https://github.com/tiger7815/save-restricted-content-bot-repo">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
  
