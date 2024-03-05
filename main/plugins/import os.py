@@ -96,7 +96,7 @@ TERM_TEXT = """📜 **Terms and Conditions** 📜\n\n
 - Upon purchase, we do not guarantee the uptime, downtime, or the validity of the plan. Authorization and banning of users are at our discretion; we reserve the right to ban or authorize users at any time.\n
 - Payment to us does not guarantee authorization for the /batch command. All decisions regarding authorization are made at our discretion and mood.\n\n
 Thank you,\n
-Team SPY
+Team Eagle
 """
 
 
