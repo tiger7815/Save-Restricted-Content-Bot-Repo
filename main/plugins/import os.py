@@ -78,8 +78,8 @@ PRE_TEXT = """🌟 Premium Plan Features 🌟\n\n
 async def plan_command(event):
     # Creating inline keyboard with buttons
     buttons = [
-        [Button.url("Send Gift Card Code", url="https://t.me/team_spy_bot")],
-        [Button.url("Join Channel", url="https://telegram.dog/dev_gagan")]
+        [Button.url("Send Gift Card Code", url="https://t.me/TIGER0715")],
+        [Button.url("Join Channel", url="https://t.me/Eagle_Xy0")]
     ]
 
     # Sending photo with caption and buttons
