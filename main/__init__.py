@@ -15,12 +15,12 @@ logging.getLogger("telethon").setLevel(logging.WARNING)
 
 
 # variables
-API_ID = config("API_ID", default=None, cast=int)
-API_HASH = config("API_HASH", default=None)
-BOT_TOKEN = config("BOT_TOKEN", default=None)
-SESSION = config("SESSION", default=None)
-FORCESUB = config("FORCESUB", default=None)
-AUTH = config("AUTH", default=None)
+API_ID = config("23382015", default=None, cast=int)
+API_HASH = config("2eaca0be3817a57f4f6f0b7671853316", default=None)
+BOT_TOKEN = config("7687719017:AAHCNsc-cTYVNnAsdW__O8LVqFvpekFZhws", default=None)
+SESSION = config("BQAf70YArgFzjwKb5PefA2aUO4YQ3Vn1RqelBYbWy52P69jnK14g1uBYtB6JvddF7zl4adakgoEug2bcwEVXFgdHxudu28x3aPH0-nxSvcH-r-CotA81Nn7-Cd68FAgimC4eCRMOAaKlUFncluXdbscuH-VzOtVNqlzCWRglN79p9UDzlnwSclGSUbO4xsFezDFswmrcgIJux9V4jzNKN9PtWvEAZfkyS-5D7Ca2ajtJ0i2-9RU5kCljJx8f9Mu0Uq9D5C2wTewIK1Xc3DpHHOxxrrFHqLAifOtNbZTGfII3uKz01otJeZMJO5IITy5R6d71e6m_dr1uAs9Yi7iwNKVFXsht6QAAAAFmwNdaAA", default=None)
+FORCESUB = config("ruturajking", default=None)
+AUTH = config("6018881370", default=None)
 SUDO_USERS = []
 
 if len(AUTH) != 0:
